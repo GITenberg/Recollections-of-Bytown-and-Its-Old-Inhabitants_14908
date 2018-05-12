@@ -1,0 +1,27 @@
+_repo: Recollections-of-Bytown-and-Its-Old-Inhabitants_14908
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lett, William Pittman
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '5746'
+    url: http://www.gutenberg.org/2009/agents/5746
+description: ''
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Ottawa (Ont.) -- History -- Poetry'
+- !lcc 'PS'
+title: Recollections of Bytown and Its Old Inhabitants
+url: http://www.gutenberg.org/ebooks/14908
